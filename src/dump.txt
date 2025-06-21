@@ -1,0 +1,57 @@
+[*] Utilisateur : siriusblack
+[*] Nom de la machine : parrot
+[*] Uptime : up 1 hour, 14 minutes
+
+[*] Réseaux Wi-Fi connus :
+ - Connexion filaire 1
+ - lo
+ - B E N ´J I🤍🌳🐁
+ - CLASEMMA
+ - FERDI IKWITSH KUNTWALA
+ - iPhone
+ - MOPO_2c1e4f003810
+ - pirate
+ - Pirate
+ - pirate 1
+ - Pirate 1
+ - pirate 2
+ - Pirate 2
+ - Pirate 3
+ - Pirate 4
+ - Prince adikey 👻
+ - Prince adikey 👻 1
+ - Sirius black 
+ - TECNO POP 9
+ - TECNO SPARK 20 PRO
+ - TP-Link_0140
+
+[*] Emplacements possibles mots de passe navigateurs :
+ - /home/siriusblack/.mozilla/firefox
+ - /home/siriusblack/.config/google-chrome/Default
+ - /home/siriusblack/.config/chromium/Default
+
+[*] Fichiers sensibles (.pdf, .docx, .txt) dans /home/siriusblack/Documents :
+ - "/home/siriusblack/Documents/pirate/users.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/setuptools-66.1.1.dist-info/entry_points.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/setuptools-66.1.1.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/pip-23.0.1.dist-info/LICENSE.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/pip-23.0.1.dist-info/entry_points.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/pip-23.0.1.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/pip/_vendor/vendor.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/sortedcontainers-2.4.0.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/websocket/tests/data/header01.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/websocket/tests/data/header02.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/websocket/tests/data/header03.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/websocket_client-1.8.0.dist-info/entry_points.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/websocket_client-1.8.0.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/urllib3-2.4.0.dist-info/licenses/LICENSE.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/sniffio-1.3.1.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/PySocks-1.7.1.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/h11-0.16.0.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/certifi-2025.4.26.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/wsproto-1.2.0.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/outcome-1.3.0.post0.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/trio-0.30.0.dist-info/entry_points.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/trio-0.30.0.dist-info/top_level.txt"
+ - "/home/siriusblack/Documents/env/lib/python3.11/site-packages/trio_websocket-0.12.2.dist-info/top_level.txt"
